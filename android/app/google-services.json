@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1081726380",
+    "project_id": "datacar-1f9eb",
+    "storage_bucket": "datacar-1f9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081726380:android:b37ffd9de28c9742b01609",
+        "android_client_info": {
+          "package_name": "com.app.datacar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081726380-2j8o2nak8cilj81ia2pusn11gt4apoet.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.datacar",
+            "certificate_hash": "fe207e6aef03e8bb925ac752ff2e94a969bfdf24"
+          }
+        },
+        {
+          "client_id": "1081726380-39u4h1m2qmvft6eovk0btkert5r6ueqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.datacar",
+            "certificate_hash": "513ed585199a27210627e7da303583e474cba684"
+          }
+        },
+        {
+          "client_id": "1081726380-6v7v2p1f35veke0ag8s0bn65fhsri5hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsBe2HT5PehFnpAz-AvsCf5jAalHaYwcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081726380-6v7v2p1f35veke0ag8s0bn65fhsri5hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
